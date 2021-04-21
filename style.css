@@ -15,10 +15,14 @@ body{
     height: auto;
     max-height: 600px;
     background-color: #FC766AFF;
+    position: absolute;
+    top: 50px;
+    left: -300px;
 }
 ul{
     margin: 0;
     list-style-type: none;
+
 
 }
 li{
@@ -30,9 +34,6 @@ li{
     height: 50px;
     background-color: #FC766AFF;
     border: none;
-}
-#listmahsol{
-
 }
 
 @media (max-width:600px) {
